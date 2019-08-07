@@ -1,6 +1,6 @@
 # Gaana.com-scrapping
 
-In this project I scrap gaana.coom all song name which user input song's name,
+In this project I scrap gaana.com all song name which user input song's name,
 than it will search related your song name than you have to choose song number than it will be automatic play song.
 
 
@@ -23,5 +23,6 @@ pip3 install requests<br>
 
 
 This is link for flipkart:"https://gaana.com/search/songs/".<br>
-After finishing installation process above, you can run the tasks, using python3 imdb.py
+After finishing installation process above, you can run on termin.<br>
+python3 gaana_com.py
 
