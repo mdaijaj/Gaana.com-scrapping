@@ -15,7 +15,7 @@ Update : `sudo apt-get update`<br>
 beautifull Soup : `pip3 install beautifulsoup4`<br><br>
 
 ### Webbrowser
-A Webbrowser is a module which is use for open the browser and play song or any activity like open browser and play song.
+A Webbrowser is a module which is use for open the browser and play song or any activity like open browser and play song.<br>
 install webbrowser: `sudo apt-get install webbrowser`<br>
 
 ### Requests will allow you to send HTTP/1.1 requests using Python. You can install requests library using following code in your terminal in Linux.
